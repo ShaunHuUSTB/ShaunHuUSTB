@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ShaunHuUSTB/ShaunHuUSTB/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShaunHuUSTB/ShaunHuUSTB/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# 教育背景
+# 工作经历
+1. 德科人力资源有限公司 2020.3-至今
+2. 地尔汉宇电子股份有限公司 2016.7-2022.1
+    1. 部门：电动汽车控制部  岗位：嵌入式软件开发工程师
+    2. 工作内容：
+        + 电机控制器软件代码编写，调试
+        + 电机控制器芯片底层配置和调试
+        + 电机矢量控制参数整定和性能测试数据标定
+    3. 项目经历
+        1. 中等功率电动汽车驱动器
+            + 项目简介：
+            + 项目职责：
+            + 项目成果：
+        2. 大功率电动汽车驱动器
+            + 项目简介：
+            + 项目
+        3. 油压伺服驱动器
